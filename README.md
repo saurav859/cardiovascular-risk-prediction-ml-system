@@ -1,6 +1,10 @@
 #cardiovascular-risk-prediction-ml-system🫀
 
-📌 Overview
+Intrtface -- 
+<img width="1536" height="1024" alt="ChatGPT Image Apr 23, 2026, 06_07_22 PM" src="https://github.com/user-attachments/assets/67c7b395-d472-4631-a64e-b6a2ee0fe2cf" />
+
+
+📌 Overview --
 This project is an end-to-end machine learning system designed to predict the likelihood of heart disease in patients based on clinical and demographic features.
 The system goes beyond basic modeling by incorporating:
 Robust data preprocessing
