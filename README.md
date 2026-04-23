@@ -1,4 +1,4 @@
-##cardiovascular-risk-prediction-ml-system🫀##
+#cardiovascular-risk-prediction-ml-system🫀
 
 📌 Overview
 This project is an end-to-end machine learning system designed to predict the likelihood of heart disease in patients based on clinical and demographic features.
